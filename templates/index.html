@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NFL Prospect Predictor</title>
+    <!-- Add CSS links for Bootstrap or any custom styles -->
+    <!-- For example, you can include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>NFL Prospect Predictor</h1>
+        <form method="POST" action="/predict">
+            <div class="form-group">
+                <label for="position">Select Position:</label>
+                <select class="form-control" id="position" name="position">
+                    <option value="QB">QB</option>
+                    <option value="RB">RB</option>
+                    <option value="WR">WR</option>
+                    <option value="TE">TE</option>
+                    <option value="T">T</option>
+                    <option value="G">G</option>
+                    <option value="C">C</option>
+                    <option value="S">S</option>
+                    <option value="CB">CB</option>
+                    <option value="LB">LB</option>
+                    <option value="DT">DT</option>
+                    <option value="DE">DE</option>
+                    <option value="K">K</option>
+                    <option value="P">P</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="feature1">Feature 1:</label>
+                <input type="number" step="any" class="form-control" id="feature1" name="feature1" required>
+            </div>
+            <div class="form-group">
+                <label for="feature2">Feature 2:</label>
+                <input type="number" step="any" class="form-control" id="feature2" name="feature2" required>
+            </div>
+            <!-- Add more input fields for other features as needed -->
+
+            <button type="submit" class="btn btn-primary">Predict</button>
+        </form>
+    </div>
+</body>
+</html>
