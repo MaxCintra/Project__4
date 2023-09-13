@@ -1,0 +1,257 @@
+Rnd,Pick,Player,Pos,AP1,PB,College/Univ,-9999
+1,1,Jameis Winston,QB,0,1,Florida St.,WinsJa00
+1,2,Marcus Mariota,QB,0,0,Oregon,MariMa01
+1,3,Dante Fowler,OLB,0,0,Florida,FowlDa00
+1,4,Amari Cooper,WR,0,4,Alabama,CoopAm00
+1,5,Brandon Scherff,T,1,5,Iowa,ScheBr00
+1,6,Leonard Williams,DE,0,1,USC,WillLe02
+1,7,Kevin White,WR,0,0,West Virginia,WhitKe00
+1,8,Vic Beasley,OLB,1,1,Clemson,BeasVi00
+1,9,Ereck Flowers,T,0,0,Miami (FL),FlowEr00
+1,10,Todd Gurley,RB,2,3,Georgia,GurlTo01
+1,11,Trae Waynes,CB,0,0,Michigan St.,WaynTr00
+1,12,Danny Shelton,NT,0,0,Washington,ShelDa01
+1,13,Andrus Peat,T,0,3,Stanford,PeatAn00
+1,14,DeVante Parker,WR,0,0,Louisville,ParkDe01
+1,15,Melvin Gordon,RB,0,2,Wisconsin,GordMe00
+1,16,Kevin Johnson,CB,0,0,Wake Forest,JohnKe04
+1,17,Arik Armstead,DT,0,0,Oregon,ArmsAr01
+1,18,Marcus Peters,CB,2,3,Washington,PeteMa00
+1,19,Cameron Erving,C,0,0,Florida St.,ErviCa00
+1,20,Nelson Agholor,WR,0,0,USC,AghoNe00
+1,21,Cedric Ogbuehi,T,0,0,Texas A&M,OgbuCe00
+1,22,Bud Dupree,OLB,0,0,Kentucky,DuprAl00
+1,23,Shane Ray,DE,0,0,Missouri,RayxSh00
+1,24,D.J. Humphries,T,0,1,Florida,HumpD.00
+1,25,Shaq Thompson,OLB,0,0,Washington,ThomSh01
+1,26,Breshad Perriman,WR,0,0,Central Florida,PerrBr02
+1,27,Byron Jones,CB,0,1,Connecticut,JoneBy00
+1,28,Laken Tomlinson,G,0,1,Duke,TomlLa01
+1,29,Phillip Dorsett,WR,0,0,Miami (FL),DorsPh00
+1,30,Damarious Randall,S,0,0,Arizona St.,RandDa00
+1,31,Stephone Anthony,ILB,0,0,Clemson,AnthSt00
+1,32,Malcom Brown,DT,0,0,Texas,BrowMa01
+2,33,Landon Collins,S,1,3,Alabama,CollLa00
+2,34,Donovan Smith,T,0,0,Penn St.,SmitDo02
+2,35,Mario Edwards,DT,0,0,Florida St.,EdwaMa01
+2,36,T.J. Yeldon,RB,0,0,Alabama,YeldT.00
+2,37,Devin Smith,WR,0,0,Ohio St.,SmitDe04
+2,38,Preston Smith,DE,0,0,Mississippi St.,SmitPr00
+2,39,Eddie Goldman,DT,0,0,Florida St.,GoldEd00
+2,40,Dorial Green-Beckham,WR,0,0,Oklahoma,GreeDo00
+2,41,Devin Funchess,TE,0,0,Michigan,FuncDe00
+2,42,Jalen Collins,CB,0,0,LSU,CollJa02
+2,43,Benardrick McKinney,ILB,0,1,Mississippi St.,McKiBe00
+2,44,Hau'oli Kikaha,OLB,0,0,Washington,KikaHa00
+2,45,Eric Kendricks,ILB,1,1,UCLA,KendEr00
+2,46,Jaquiski Tartt,S,0,0,Samford,TartJa00
+2,47,Eric Rowe,CB,0,0,Utah,RoweEr00
+2,48,Denzel Perryman,ILB,0,1,Miami (FL),PerrDe00
+2,49,Mitch Morse,G,0,1,Missouri,MorsMi00
+2,50,Ronald Darby,CB,0,0,Florida St.,DarbRo00
+2,51,Nate Orchard,DE,0,0,Utah,OrchNa00
+2,52,Jordan Phillips,NT,0,0,Oklahoma,PhilJo01
+2,53,Jake Fisher,T,0,0,Oregon,FishJa00
+2,54,Ameer Abdullah,RB,0,0,Nebraska,AbduAm00
+2,55,Maxx Williams,TE,0,0,Minnesota,WillMa04
+2,56,Senquez Golson,CB,0,0,Mississippi,GolsSe00
+2,57,Rob Havenstein,T,0,0,Wisconsin,HaveRo00
+2,58,Markus Golden,DE,0,0,Missouri,GoldMa00
+2,59,Ty Sambrailo,T,0,0,Colorado St.,SambTy00
+2,60,Randy Gregory,OLB,0,0,Nebraska,GregRa00
+2,61,Ali Marpet,C,0,1,Hobart,MarpAl00
+2,62,Quinten Rollins,CB,0,0,Miami (OH),RollQu00
+2,63,Frank Clark,DE,0,3,Michigan,ClarFr01
+2,64,Jordan Richards,S,0,0,Stanford,RichJo00
+3,65,D'Joun Smith,CB,0,0,Florida Atlantic,SmitDJ00
+3,66,Jeremiah Poutasi,G,0,0,Utah,PoutJe00
+3,67,A.J. Cann,G,0,0,South Carolina,CannA.00
+3,68,Clive Walford,TE,0,0,Miami (FL),WalfCl00
+3,69,Tyler Lockett,WR,1,1,Kansas St.,LockTy00
+3,70,Jaelen Strong,WR,0,0,Arizona St.,StroJa01
+3,71,Hroniss Grasu,C,0,0,Oregon,GrasHr00
+3,72,Jamon Brown,T,0,0,Louisville,BrowJa04
+3,73,Tevin Coleman,RB,0,0,Indiana,ColeTe01
+3,74,Owamagbe Odighizuwa,DE,0,0,UCLA,OdigOw00
+3,75,Garrett Grayson,QB,0,0,Colorado St.,GrayGa00
+3,76,Chris Conley,WR,0,0,Georgia,ConlCh00
+3,77,Duke Johnson,RB,0,0,Miami (FL),JohnDu00
+3,78,P.J. Williams,CB,0,0,Florida St.,WillP.00
+3,79,Eli Harold,OLB,0,0,Virginia,HaroEl00
+3,80,Alex Carter,CB,0,0,Stanford,CartAl01
+3,81,John Miller,G,0,0,Louisville,MillJo04
+3,82,Lorenzo Mauldin,OLB,0,0,Louisville,MaulLo00
+3,83,Craig Mager,CB,0,0,Texas St.,MageCr00
+3,84,Jordan Hicks,OLB,0,0,Texas,HickJo00
+3,85,Tyler Kroft,TE,0,0,Rutgers,KrofTy00
+3,86,David Johnson,RB,1,1,Northern Iowa,JohnDa08
+3,87,Sammie Coates,WR,0,0,Auburn,CoatSa00
+3,88,Danielle Hunter,DE,0,3,LSU,HuntDa01
+3,89,Sean Mannion,QB,0,0,Oregon St.,MannSe00
+3,90,Carl Davis,DT,0,0,Iowa,DaviCa01
+3,91,Chaz Green,T,0,0,Florida,GreeCh02
+3,92,Jeff Heuerman,TE,0,0,Ohio St.,HeueJe00
+3,93,Henry Anderson,DE,0,0,Stanford,AndeHe00
+3,94,Ty Montgomery,WR,0,0,Stanford,MontTy01
+3,95,Matt Jones,RB,0,0,Florida,JoneMa04
+3,96,Xavier Cooper,DT,0,0,Washington St.,CoopXa00
+3,97,Geneo Grissom,DE,0,0,Oklahoma,GrisGe00
+3,98,Steven Nelson,CB,0,0,Oregon St.,NelsSt01
+3,99,Paul Dawson,ILB,0,0,TCU,DawsPa00
+4,100,Angelo Blackson,DT,0,0,Auburn,BlacAn00
+4,101,Trey Flowers,DE,0,0,Arkansas,FlowTr00
+4,102,Daryl Williams,G,0,0,Oklahoma,WillDa06
+4,103,Bryce Petty,QB,0,0,Baylor,PettBr01
+4,104,James Sample,S,0,0,Louisville,SampJa00
+4,105,Jamison Crowder,WR,0,0,Duke,CrowJa00
+4,106,Jeremy Langford,RB,0,0,Michigan St.,LangJe00
+4,107,Justin Hardy,WR,0,0,East Carolina,HardJu00
+4,108,Jalston Fowler,FB,0,0,Alabama,FowlJa00
+4,109,Clayton Geathers,S,0,0,Central Florida,GeatCl00
+4,110,T.J. Clemmings,T,0,0,Pittsburgh,ClemT.00
+4,111,Tre' Jackson,G,0,0,Florida St.,JackTr00
+4,112,Arie Kouandjio,G,0,0,Alabama,KouaAr00
+4,113,Gabe Wright,DT,0,0,Auburn,WrigGa00
+4,114,Jamil Douglas,G,0,0,Arizona St.,DougJa00
+4,115,Ibraheim Campbell,S,0,0,Northwestern,CampIb00
+4,116,Rodney Gunter,DT,0,0,Delaware St.,GuntRo00
+4,117,Blake Bell,TE,0,0,Oklahoma,BellBl00
+4,118,Ramik Wilson,ILB,0,0,Georgia,WilsRa00
+4,119,Andrew Donnal,T,0,0,Iowa,DonnAn00
+4,120,Josh Shaw,CB,0,0,USC,ShawJo00
+4,121,Doran Grant,CB,0,0,Ohio St.,GranDo00
+4,122,Za'Darius Smith,DE,0,3,Kentucky,SmitZa00
+4,123,Vince Mayle,WR,0,0,Washington St.,MaylVi00
+4,124,Kwon Alexander,OLB,0,1,LSU,AlexKw00
+4,125,Javorius Allen,RB,0,0,USC,AlleJa01
+4,126,Mike Davis,RB,0,0,South Carolina,DaviMi01
+4,127,Damien Wilson,ILB,0,0,Minnesota,WilsDa02
+4,128,Jon Feliciano,G,0,0,Miami (FL),FeliJo00
+4,129,Jake Ryan,OLB,0,0,Michigan,RyanJa00
+4,130,Terry Poole,G,0,0,San Diego St.,PoolTe00
+4,131,Shaq Mason,C,0,0,Georgia Tech,MasoSh01
+4,132,DeAndre Smelter,WR,0,0,Georgia Tech,SmelDe00
+4,133,Max Garcia,C,0,0,Florida,GarcMa00
+4,134,Mark Glowinski,G,0,0,West Virginia,GlowMa00
+4,135,Marcus Hardison,DE,0,0,Arizona St.,HardMa00
+4,136,Tray Walker,CB,0,0,Texas Southern,WalkTr00
+5,137,Grady Jarrett,NT,0,2,Clemson,JarrGr00
+5,138,David Cobb,RB,0,0,Minnesota,CobbDa00
+5,139,Rashad Greene,WR,0,0,Florida St.,GreeRa00
+5,140,Ben Heeney,ILB,0,0,Kansas,HeenBe00
+5,141,Martrell Spaight,OLB,0,0,Arkansas,SpaiMa00
+5,142,Adrian Amos,S,0,0,Penn St.,AmosAd00
+5,143,MyCole Pruitt,TE,0,0,Southern Illinois,PruiMy00
+5,144,Mykkele Thompson,S,0,0,Texas,ThomMy00
+5,145,Bobby McCain,CB,0,0,Memphis,McCaBo01
+5,146,Stefon Diggs,WR,1,3,Maryland,DiggSt00
+5,147,Brett Hundley,QB,0,0,UCLA,HundBr00
+5,148,Davis Tull,OLB,0,0,Chattanooga,TullDa00
+5,149,Jay Ajayi,RB,0,1,Boise St.,AjayJa00
+5,150,Cedric Thompson,S,0,0,Minnesota,ThomCe00
+5,151,David Parry,NT,0,0,Stanford,ParrDa00
+5,152,Jarvis Harrison,G,0,0,Texas A&M,HarrJa02
+5,153,Kyle Emanuel,OLB,0,0,North Dakota St.,EmanKy00
+5,154,Tyeler Davison,DT,0,0,Fresno St.,DaviTy01
+5,155,Karlos Williams,RB,0,0,Florida St.,WillKa01
+5,156,Tony Lippett,WR,0,0,Michigan St.,LippTo00
+5,157,C.J. Uzomah,TE,0,0,Auburn,UzomC.00
+5,158,Shaquille Riddick,DE,0,0,West Virginia,RiddSh00
+5,159,JJ Nelson,WR,0,0,Ala-Birmingham,NelsJJ00
+5,160,Jesse James,TE,0,0,Penn St.,JameJe00
+5,161,Neiron Ball,OLB,0,0,Florida,BallNe00
+5,162,Kenny Bell,WR,0,0,Nebraska,BellKe02
+5,163,Ryan Russell,DE,0,0,Purdue,RussRy00
+5,164,Lorenzo Doss,CB,0,0,Tulane,DossLo00
+5,165,Bradley Pinion,P,0,0,Clemson,PiniBr00
+5,166,Joe Cardona,LS,0,0,Navy,CardJo00
+5,167,Damian Swann,CB,0,0,Georgia,SwanDa02
+5,168,Michael Burton,FB,0,0,Rutgers,BurtMi00
+5,169,David Mayo,LB,0,0,Texas St.,MayoDa00
+5,170,Tye Smith,CB,0,0,Towson,SmitTy01
+5,171,Nick Boyle,TE,0,0,Delaware,BoylNi00
+5,172,D.J. Alexander,OLB,0,1,Oregon St.,AlexD.00
+5,173,James O'Shaughnessy,TE,0,0,Illinois St.,O'ShJa00
+5,174,Cameron Artis-Payne,RB,0,0,Auburn,ArtiCa00
+5,175,Keith Mumphery,WR,0,0,Michigan St.,MumpKe00
+5,176,Robert Myers,G,0,0,Tennessee St.,MyerRo01
+6,177,Deiontrez Mount,OLB,0,0,Louisville,MounDe00
+6,178,Matthew Wells,LB,0,0,Mississippi St.,WellMa00
+6,179,Max Valles,OLB,0,0,Virginia,VallMa00
+6,180,Michael Bennett,DT,0,0,Ohio St.,BennMi01
+6,181,Kyshoen Jarrett,S,0,0,Virginia Tech,JarrKy00
+6,182,Tevin Mitchel,CB,0,0,Arkansas,MitcTe01
+6,183,Tayo Fabuluje,T,0,0,TCU,FabuTa00
+6,184,Kaelin Clay,WR,0,0,Utah,ClayKa00
+6,185,Tyrus Thompson,T,0,0,Oklahoma,ThomTy01
+6,186,Geremy Davis,WR,0,0,Connecticut,DaviGe00
+6,187,Evan Spencer,WR,0,0,Ohio St.,SpenEv00
+6,188,Tony Steward,OLB,0,0,Clemson,StewTo01
+6,189,Charles Gaines,CB,0,0,Louisville,GainCh00
+6,190,Ian Silberman,G,0,0,Boston Col.,SilbIa00
+6,191,JaCorey Shepherd,CB,0,0,Kansas,ShepJa00
+6,192,Darius Philon,DT,0,0,Arkansas,PhilDa01
+6,193,B.J. Dubose,DE,0,0,Louisville,DuboB.00
+6,194,Nick O'Leary,TE,0,0,Florida St.,OLeaNi00
+6,195,Malcolm Johnson,TE,0,0,Mississippi St.,JohnMa06
+6,196,Randall Evans,CB,0,0,Kansas St.,EvanRa00
+6,197,Derron Smith,S,0,0,Fresno St.,SmitDe05
+6,198,Randall Telfer,TE,0,0,USC,TelfRa00
+6,199,Leterrius Walton,DT,0,0,Central Michigan,WaltLe00
+6,200,Quandre Diggs,CB,0,3,Texas,DiggQu00
+6,201,Bud Sasser,WR,0,0,Missouri,SassBu00
+6,202,A.J. Derby,TE,0,0,Arkansas,DerbA.00
+6,203,Darius Kilgo,NT,0,0,Maryland,KilgDa01
+6,204,Darren Waller,WR,0,1,Georgia Tech,WallDa01
+6,205,Josh Robinson,RB,0,0,Mississippi St.,RobiJo02
+6,206,Aaron Ripkowski,FB,0,0,Oklahoma,RipkAa00
+6,207,Amarlo Herrera,ILB,0,0,Georgia,HerrAm00
+6,208,Andy Gallik,C,0,0,Boston Col.,GallAn00
+6,209,Obum Gwacham,DE,0,0,Oregon St.,GwacOb00
+6,210,Christian Ringo,DE,0,0,Louisiana,RingCh00
+6,211,Reshard Cliett,OLB,0,0,South Florida,ClieRe00
+6,212,Anthony Chickillo,DE,0,0,Miami (FL),ChicAn00
+6,213,Kennard Backman,TE,0,0,Ala-Birmingham,BackKe00
+6,214,Kristjan Sokoli,DT,0,0,Buffalo,SokoKr00
+6,215,Cody Wichmann,G,0,0,Fresno St.,WichCo00
+6,216,Christian Covington,DT,0,0,Rice,CoviCh00
+6,217,Rakeem Nunez-Roches,DT,0,0,Southern Miss,NuneRa00
+7,218,Anthony Morris,OL,0,0,Tennessee St.,MorrAn00
+7,219,Hayes Pullard,ILB,0,0,USC,PullHa00
+7,220,Neal Sterling,WR,0,0,Monmouth,SterNe00
+7,221,Andre Debose,WR,0,0,Florida,DeboAn00
+7,222,Austin Reiter,C,0,0,South Florida,ReitAu00
+7,223,Deon Simon,NT,0,0,Northwestern St. (LA),SimoDe00
+7,224,Bryce Hager,ILB,0,0,Baylor,HageBr00
+7,225,Jake Rodgers,T,0,0,East. Washington,RodgJa03
+7,226,Bobby Hart,G,0,0,Florida St.,HartBo00
+7,227,Martin Ifedi,DE,0,0,Memphis,IfedMa00
+7,228,Austin Shepherd,T,0,0,Alabama,ShepAu00
+7,229,Ben Koyack,TE,0,0,Notre Dame,KoyaBe00
+7,230,Marcus Murphy,RB,0,0,Missouri,MurpMa03
+7,231,Joey Iosefa,FB,0,0,Hawaii,IoseJo00
+7,232,Edmond Robinson,OLB,0,0,Newberry,RobiEd00
+7,233,Da'Ron Brown,WR,0,0,Northern Illinois,BrowDa03
+7,234,Dezmin Lewis,WR,0,0,Central Arkansas,LewiDe02
+7,235,Kenny Hilliard,RB,0,0,LSU,HillKe01
+7,236,Mark Nzeocha,OLB,0,0,Wyoming,NzeoMa00
+7,237,Brian Mihalik,DE,0,0,Boston Col.,MihaBr00
+7,238,Mario Alford,WR,0,0,West Virginia,AlfoMa00
+7,239,Gerod Holliman,S,0,0,Louisville,HollGe00
+7,240,Corey Robinson,T,0,0,South Carolina,RobiCo00
+7,241,Ifo Ekpre-Olomu,CB,0,0,Oregon,EkprIf00
+7,242,Dexter McDonald,CB,0,0,Kansas,McDoDe02
+7,243,Laurence Gibson,T,0,0,Virginia Tech,GibsLa00
+7,244,Trent Brown,G,0,1,Florida,BrowTr02
+7,245,Tre McBride,WR,0,0,William & Mary,McBrTr00
+7,246,Geoff Swaim,TE,0,0,Texas,SwaiGe00
+7,247,Darryl Roberts,CB,0,0,Marshall,RobeDa00
+7,248,Ryan Murphy,DB,0,0,Oregon St.,MurpRy00
+7,249,Akeem King,DB,0,0,San Jose St.,KingAk00
+7,250,Trevor Siemian,QB,0,0,Northwestern,SiemTr00
+7,251,Taurean Nixon,DB,0,0,Tulane,NixoTa00
+7,252,Josh Furman,DB,0,0,Oklahoma St.,FurmJo00
+7,253,Xzavier Dickson,OLB,0,0,Alabama,DickXz00
+7,254,Rory Anderson,TE,0,0,South Carolina,AndeRo01
+7,255,Denzelle Good,T,0,0,Mars Hill,GoodDe01
+7,256,Gerald Christian,TE,0,0,Louisville,ChriGe00
